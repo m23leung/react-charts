@@ -80,7 +80,6 @@ function App() {
       <Chart2 />
     </div>
 
-      <Button label="click me please"></Button>
     </div>
   );
 }
